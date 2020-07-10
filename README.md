@@ -1,3 +1,5 @@
+![johnsickels](./johnsickels.gif)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
